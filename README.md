@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D199D0&text=&animation=twinkling&height=100)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=EB87B7&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+devdaeun's+github✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=EB87B7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=devdaeun's+github)](https://git.io/typing-svg)
 ---------
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdaeun)](https://github.com/anuraghazra/github-readme-stats)-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdaeun&show_icons=true&theme=dracula&hide_border=true)
 
 ## STACKS 💻
