@@ -5,6 +5,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaeun&layout=compact"> 
 
+## Blog 
+프로젝트 구현정보, 오류해결 내용등을 기록합니다.
+
+<a href="https://velog.io/@lavenderlris/posts">Velog</a>
+
+
 
 ## STACKS 💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
