@@ -9,6 +9,7 @@
 프로젝트 구현정보, 오류해결 내용등을 기록합니다.
 
 <a href="https://velog.io/@lavenderlris/posts">Velog</a>
+<a href="https://devdaeun.tistory.com/">Tistory</a>
 
 
 
