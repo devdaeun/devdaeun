@@ -1,8 +1,19 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdaeun&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" style="margin-right: 10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaeun&layout=compact" alt="Top languages" />
-</div>
+
+<table align="center" style="border-spacing: 0; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=devdaeun&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td style="width: 20px; padding: 0; border: none;"></td>
+    <td style="padding: 0; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaeun&layout=compact" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <div align="center">
   
@@ -40,7 +51,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/QueryDSL-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/QueryDSL-007ACC?style=for-the-badge&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Eureka-0078D7?style=for-the-badge&logo=eureka&logoColor=white" />
@@ -83,7 +94,7 @@
   <img src="https://img.shields.io/badge/JitPack-00C853?style=for-the-badge&logo=jitpack&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/JMeter-25A162?style=for-the-badge&logo=jmeter&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
