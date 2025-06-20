@@ -1,14 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=EB87B7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=devdaeun's+github)](https://git.io/typing-svg)
----------
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdaeun&show_icons=true&theme=dracula&hide_border=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaeun&layout=compact"> 
 
 ## Blog 
-프로젝트 구현정보, 오류해결 내용등을 기록합니다.
-
-<a href="https://velog.io/@lavenderlris/posts">Velog</a>
 <a href="https://devdaeun.tistory.com/">Tistory</a>
 
 
