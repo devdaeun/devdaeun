@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/QueryDSL-007ACC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSA-00C7B7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
 
